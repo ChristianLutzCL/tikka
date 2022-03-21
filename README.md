@@ -18,6 +18,7 @@
 
 ## tikka - Darts App
 
+<p>(C) 2022</p>
 <img height=30 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/>
 
 
