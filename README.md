@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <strong>Social media for Darts</strong>
+  <h2>Social media for Darts</h2>
 </p>
 
 <h3 align="center">
