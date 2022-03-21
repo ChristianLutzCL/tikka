@@ -1,9 +1,9 @@
 <a href="#"><p align="center">
 <img height=280 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/3.png?raw=true"/>
+</a>
 
-</p></a>
 <p align="center">
-  <strong>Darts App</strong>
+  <strong>Social media for Darts</strong>
 </p>
 
 <h3 align="center">
@@ -16,10 +16,9 @@
 
 ---
 
-## tikka - Darts App
+## tikka - Social media for Darts
 
 <div>
-    <div>© 2022</div>
     <img height=20 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/>
 </div>
 
