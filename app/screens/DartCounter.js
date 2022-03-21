@@ -36,8 +36,16 @@ function DartCounter({route}) {
 
     initGame();
 
+    var players = {}
+    players.id = route.params.players[0].id;
+    players.name = route.params.players[0].name;
+    players.score = route.params.players[0].score;
+    players.darts = route.params.players[0].darts;
+    players.totalScore = route.params.players[0].totalScore;
+    players.average = route.params.players[0].average;
 
-    console.log(route.params.players[0]);
+    console.table(players);
+    
 
     return (
         <SafeAreaView style={{

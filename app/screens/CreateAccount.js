@@ -27,10 +27,6 @@ function CreateAccount({navigation, route}) {
     const [email, setEmail] = React.useState('');
 
 
-
-
-
-
     const Separator = () => (
         <View style={styles.separator} />
       );

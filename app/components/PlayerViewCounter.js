@@ -11,9 +11,6 @@ import {
 
 function PlayerViewCounter(params) {
 
-
-    console.log(params.playerData.name);
-
     return (
         <View style={{
             borderWidth: 0.5,
