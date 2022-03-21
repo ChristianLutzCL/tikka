@@ -1,5 +1,5 @@
 <a href="#"><p align="center">
-<img height=280 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/3.png?raw=true"/>
+<img height=220 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/3.png?raw=true"/>
 </a>
 
 <h3 align="center">
