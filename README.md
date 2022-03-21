@@ -16,10 +16,10 @@
 
 ---
 
-## tikka - Social media for Darts
+## <img height=20 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/> - Social media for Darts
 
 <div>
-    <img height=20 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/>
+    
 </div>
 
 
