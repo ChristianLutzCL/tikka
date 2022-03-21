@@ -12,13 +12,13 @@
   <a href="#">Community</a>
   <span> · </span>
   <a href="#">Documentation</a>
-  <span> · </span>
-  <a href="https://github.com/OpenReallife/OpenReallife-SAMP/blob/main/README_DE.md">Readme DE</a>
 </h3>
 
 ---
 
-<img height=80 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/>
 ## tikka - Darts App
+
+<img height=30 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/>
+
 
 
