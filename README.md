@@ -1,5 +1,5 @@
-<a href="https://inspiredprogrammer.com"><p align="center">
-<img height=100 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-SAMP/main/OpenReallifeSAMP.png"/>
+<a href="#"><p align="center">
+<img height=100 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png"/>
 
 </p></a>
 <p align="center">
