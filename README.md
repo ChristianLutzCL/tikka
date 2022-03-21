@@ -18,6 +18,7 @@
 
 ---
 
+<img height=80 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/>
 ## tikka - Darts App
 
 
