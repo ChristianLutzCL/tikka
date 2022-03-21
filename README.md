@@ -2,9 +2,9 @@
 <img height=280 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/3.png?raw=true"/>
 </a>
 
-<p align="center">
-  <h2>Social media for Darts</h2>
-</p>
+<h2 align="center">
+  <strong>Social media for Darts</strong>
+</h2>
 
 <h3 align="center">
   <a href="https://github.com/OpenReallife/OpenReallife-SAMP/blob/main/CONTRIBUTING.md">Contribute</a>
