@@ -12,21 +12,21 @@ const Stack = createNativeStackNavigator();
 
 export default function App() {
   return (
-    <NativeBaseProvider>
-      <NavigationContainer>
-        <StatusBar style='light' backgroundColor='#0B1120' />
-        <Stack.Navigator>
-          <Stack.Screen name="CreateAccount" component={CreateAccount} options={{headerShown:false}} />
-          <Stack.Screen name="LogIn" component={LogIn} options={{headerShown:true, headerTitle:"Log In", headerTransparent: true, headerTintColor:"#fff"}} />
-          <Stack.Screen name="DartCounter" component={DartCounter} options={{headerShown:true, headerTitle:"Game", headerTintColor:"#fff", headerStyle: { backgroundColor: '#0B1120'}}} />
-          <Stack.Screen name="CreateGame" component={CreateGame} options={{
-            headerStyle: {
-              backgroundColor: '#0B1120',
-            },
-            headerTintColor: '#fff',
-          }} />
-        </Stack.Navigator>
-      </NavigationContainer>
-    </NativeBaseProvider>
+      <NativeBaseProvider>
+        <NavigationContainer>
+          <StatusBar style='light' backgroundColor='#0B1120' />
+          <Stack.Navigator>
+            <Stack.Screen name="CreateAccount" component={CreateAccount} options={{headerShown:false}} />
+            <Stack.Screen name="LogIn" component={LogIn} options={{headerShown:true, headerTitle:"Log In", headerTransparent: true, headerTintColor:"#fff"}} />
+            <Stack.Screen name="DartCounter" component={DartCounter} options={{headerShown:true, headerTitle:"Game", headerTintColor:"#fff", headerStyle: { backgroundColor: '#0B1120'}}} />
+            <Stack.Screen name="CreateGame" component={CreateGame} options={{
+              headerStyle: {
+                backgroundColor: '#0B1120',
+              },
+              headerTintColor: '#fff',
+            }} />
+          </Stack.Navigator>
+        </NavigationContainer>
+      </NativeBaseProvider>
   );
 }

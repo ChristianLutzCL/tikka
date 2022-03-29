@@ -10,6 +10,10 @@ import {
 } from 'react-native';
 
 function PlayerViewCounter(params) {
+    /*
+    Test
+    
+    */
 
     return (
         <View style={{
