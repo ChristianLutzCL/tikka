@@ -3,7 +3,7 @@
 </a>
 
 <h3 align="center">
-  <strong>Social media for Darts</strong>
+  <strong>The place for darts players</strong>
 </h3>
 
 <p></p>
@@ -17,7 +17,7 @@
 
 ---
 
-## <img height=20 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/> - Social media for Darts
+## <img height=20 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/logo.png?raw=true"/> - The place for darts players
 
 <div>
     
