@@ -1,5 +1,5 @@
 <a href="#"><p align="center">
-<img height=220 src="https://github.com/ChristianLutzCL/tikka/blob/master/assets/3.png?raw=true"/>
+<img height=220 src="https://raw.githubusercontent.com/ChristianLutzCL/menetrend/5b5ded76a04ed8407929febe40389460e60a9ec0/public/menetrend_light.svg?token=AHIQMBYBUN5FEYRP7TMG6QTCT4R64"/>
 </a>
 
 <h3 align="center">
