@@ -1,0 +1,253 @@
+<svg width="950" height="950" viewBox="0 0 950 950" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>.Group_112_34 {
+	animation: 4s linear 0s infinite normal forwards running Group_112_34;
+		opacity: 0;
+}
+@keyframes Group_112_34 {
+	0% {
+		opacity: 0;
+	}
+	5% {
+		opacity: 1;
+	}
+	95% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_113_44 {
+	animation: 4s linear 0s infinite normal forwards running Group_113_44;
+		opacity: 0;
+}
+@keyframes Group_113_44 {
+	0% {
+		opacity: 0;
+	}
+	5% {
+		opacity: 0;
+	}
+	10% {
+		opacity: 1;
+	}
+	90% {
+		opacity: 1;
+	}
+	95% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_114_838 {
+	animation: 4s linear 0s infinite normal forwards running Group_114_838;
+		opacity: 0;
+}
+@keyframes Group_114_838 {
+	0% {
+		opacity: 0;
+	}
+	10% {
+		opacity: 0;
+	}
+	15% {
+		opacity: 1;
+	}
+	85% {
+		opacity: 1;
+	}
+	90% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_115_965 {
+	animation: 4s linear 0s infinite normal forwards running Group_115_965;
+		opacity: 0;
+}
+@keyframes Group_115_965 {
+	0% {
+		opacity: 0;
+	}
+	15% {
+		opacity: 0;
+	}
+	20% {
+		opacity: 1;
+	}
+	80% {
+		opacity: 1;
+	}
+	85% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_116_446 {
+	animation: 4s linear 0s infinite normal forwards running Group_116_446;
+		opacity: 0;
+}
+@keyframes Group_116_446 {
+	0% {
+		opacity: 0;
+	}
+	20% {
+		opacity: 0;
+	}
+	25% {
+		opacity: 1;
+	}
+	75% {
+		opacity: 1;
+	}
+	80% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_117_204 {
+	animation: 4s linear 0s infinite normal forwards running Group_117_204;
+		opacity: 0;
+}
+@keyframes Group_117_204 {
+	0% {
+		opacity: 0;
+	}
+	25% {
+		opacity: 0;
+	}
+	30% {
+		opacity: 1;
+	}
+	65% {
+		opacity: 1;
+	}
+	70% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_118_704 {
+	animation: 4s linear 0s infinite normal forwards running Group_118_704;
+		opacity: 0;
+}
+@keyframes Group_118_704 {
+	0% {
+		opacity: 0;
+	}
+	35% {
+		opacity: 0;
+	}
+	40% {
+		opacity: 1;
+	}
+	60% {
+		opacity: 1;
+	}
+	65% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}.Group_119_257 {
+	animation: 4s linear 0s infinite normal forwards running Group_119_257;
+		opacity: 0;
+}
+@keyframes Group_119_257 {
+	0% {
+		opacity: 0;
+	}
+	40% {
+		opacity: 0;
+	}
+	45% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 1;
+	}
+	55% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+</style>
+<g clip-path="url(#clip_0_115)" width="950" height="950" data-name="Frame 2">
+	<g transform="translate(59 59)" width="832" height="832" data-name="Group 121">
+		<g width="832" height="832" data-name="Group 29">
+			<path d="M768 0H64C47.0313 0.0169433 30.7625 6.76522 18.7639 18.7639C6.76522 30.7625 0.0169433 47.0313 0 64V768C0.0169433 784.969 6.76522 801.237 18.7639 813.236C30.7625 825.235 47.0313 831.983 64 832H768C784.969 831.983 801.237 825.235 813.236 813.236C825.235 801.237 831.983 784.969 832 768V64C831.983 47.0313 825.235 30.7625 813.236 18.7639C801.237 6.76522 784.969 0.0169433 768 0ZM512 192H320V64H512V192ZM512 256V384H320V256H512ZM256 256V384H64V256H256ZM256 448V576H64V448H256ZM320 448H512V576H320V448ZM576 384V256H768V384H576ZM64 640H256V768H64V640ZM576 768V640H768V768H576Z" fill="#252525" data-name="Vector"/>
+		</g>
+		<g transform="translate(64 64)" width="704" height="704" data-name="Group 120">
+			<g class="Group_112_34" width="704" height="704" data-name="Group 112">
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_113_44" width="704" height="704" data-name="Group 113">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_114_838" width="704" height="704" data-name="Group 114">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M192 192V320H0V192H192Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_115_965" width="704" height="704" data-name="Group 115">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M192 192V320H0V192H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 128H256V0H448V128Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_116_446" width="704" height="704" data-name="Group 116">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M192 192V320H0V192H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 128H256V0H448V128Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 192V320H352H256V192H448Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_117_204" width="704" height="704" data-name="Group 117">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M192 192V320H0V192H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 128H256V0H448V128Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 192V320H352H256V192H448Z" fill="#252525" data-name="Vector"/>
+				<path d="M256 384H448V512H256V384Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_118_704" width="704" height="704" data-name="Group 118">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M192 192V320H0V192H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 128H256V0H448V128Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 192V320H352H256V192H448Z" fill="#252525" data-name="Vector"/>
+				<path d="M256 384H448V512H256V384Z" fill="#252525" data-name="Vector"/>
+				<path d="M512 704V576H704V704H512Z" fill="#252525" data-name="Vector"/>
+			</g>
+			<g class="Group_119_257" width="704" height="704" data-name="Group 119">
+				<path d="M192 384V512H0V384H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M0 576H192V704H0V576Z" fill="#252525" data-name="Vector"/>
+				<path d="M192 192V320H0V192H192Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 128H256V0H448V128Z" fill="#252525" data-name="Vector"/>
+				<path d="M256 384H448V512H256V384Z" fill="#252525" data-name="Vector"/>
+				<path d="M448 192V320H352H256V192H448Z" fill="#252525" data-name="Vector"/>
+				<path d="M512 320V192H704V320H512Z" fill="#252525" data-name="Vector"/>
+				<path d="M512 704V576H704V704H512Z" fill="#252525" data-name="Vector"/>
+			</g>
+		</g>
+	</g>
+</g>
+<defs><clipPath id="clip_0_115"><rect width="950" height="950"/></clipPath>
+</defs>
+</svg>
