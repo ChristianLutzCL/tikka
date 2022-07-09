@@ -171,12 +171,12 @@ export default function CounterKeyboard() {
                 flexDirection: 'row',
                 justifyContent: 'space-between'
             }}>
-                <TouchableHighlight onPress={e => setButtonOption('DOUBLE')}>
+                <TouchableHighlight >
                     <View style={styles.button}>
                     <Text>DOUBLE</Text>
                     </View>
                 </TouchableHighlight>
-                <TouchableHighlight onPress={e => setButtonOption('TRIPLE')}>
+                <TouchableHighlight >
                     <View style={styles.button}>
                     <Text>TRIPLE</Text>
                     </View>

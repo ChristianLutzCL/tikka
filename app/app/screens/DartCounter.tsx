@@ -26,7 +26,7 @@ function DartCounter({route}) {
     }
 
     function handleScore(score){
-        setScore(score);
+        // setScore(score);
 
         for (let i = 0; i < 3; i++) {
             route.params.players[0].darts[i] = score;
